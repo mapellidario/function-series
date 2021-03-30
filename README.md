@@ -1,4 +1,4 @@
-## 1D Fouries Series
+## 1D Seccessions of functions, Series and Fouries Series
 
 Code developed during the second year of my bachelor, while studying for the calculus exam. 
 
