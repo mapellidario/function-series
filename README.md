@@ -1,4 +1,4 @@
-## 1D Seccessions of functions, Series and Fouries Series
+## Seccessions of functions, Series and Fouries Series. 1-dimensional, f: \R -> \R
 
 Code developed during the second year of my bachelor, while studying for the calculus exam. 
 
